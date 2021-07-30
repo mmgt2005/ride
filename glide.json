@@ -1,15 +1,15 @@
 [
  {
-   "kind":"column",
-   "name":"AddressInput",
+   "kind": "column",
+   "name": "AddressInput",
    "description": "Allows Rider to autocomplete an address",
    "author": "Marcia Danielson <mmgt2005@gmail.com>",
    "params": [
       {
-        "input":"string"
+        "input": "string"
       }
      ],
-     "result":{
+     "result": {
        "type": "string"
      }
     }
